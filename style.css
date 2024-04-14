@@ -1,0 +1,37 @@
+.header{
+    
+    font-size: 32px;
+    text-align: center;
+}
+.gen{
+    display: inline
+    
+    
+}
+.txt{
+    font-size: larger;
+    margin-bottom: 13px;
+    padding-left:14px;
+    background-image: url(/asset/nuc.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.in{
+    margin-bottom: 22px;
+    
+    
+}
+#input{
+    width: 12px;
+}
+.bor{
+border: 2px solid black;
+margin-top: 100px;
+margin-bottom: 0px;
+margin-left: 100px;
+margin-right: 100px;
+}
+.footer1{
+    float: right;
+} 
